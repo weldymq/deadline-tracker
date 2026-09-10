@@ -1,1 +1,1 @@
-This application is made for tracking your tasks deadlines
+This application is made for tracking your tasks deadlines.
